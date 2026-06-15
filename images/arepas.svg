@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="220" rx="160" ry="40" fill="#e0e0e0"/>
+  <!-- Arepa 1 -->
+  <ellipse cx="150" cy="190" rx="60" ry="35" fill="#f4d28a"/>
+  <ellipse cx="150" cy="180" rx="60" ry="35" fill="#f9e3a8"/>
+  <path d="M 95 178 A 60 35 0 0 1 205 178" stroke="#d9a82a" stroke-width="3" fill="none"/>
+  <!-- char marks -->
+  <line x1="110" y1="172" x2="125" y2="178" stroke="#c9853a" stroke-width="3"/>
+  <line x1="170" y1="175" x2="185" y2="180" stroke="#c9853a" stroke-width="3"/>
+  <!-- Arepa 2, cut open with cheese -->
+  <ellipse cx="270" cy="190" rx="60" ry="35" fill="#f4d28a"/>
+  <ellipse cx="270" cy="180" rx="60" ry="35" fill="#f9e3a8"/>
+  <rect x="240" y="165" width="60" height="12" fill="#fff3d0"/>
+  <path d="M 215 178 A 60 35 0 0 1 325 178" stroke="#d9a82a" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="200" rx="170" ry="70" fill="#e0e0e0"/>
+  <ellipse cx="200" cy="195" rx="158" ry="62" fill="#f5f5f5"/>
+  <!-- Rice -->
+  <ellipse cx="110" cy="185" rx="48" ry="28" fill="#fdfaf3"/>
+  <!-- Black beans -->
+  <ellipse cx="195" cy="195" rx="48" ry="28" fill="#3a2618"/>
+  <circle cx="185" cy="190" r="3" fill="#1f140c"/>
+  <circle cx="205" cy="195" r="3" fill="#1f140c"/>
+  <circle cx="195" cy="205" r="3" fill="#1f140c"/>
+  <!-- Shredded beef -->
+  <path d="M 250 175 Q 265 168 280 175" stroke="#a0522d" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M 260 188 Q 275 181 290 188" stroke="#8b3a1f" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M 245 198 Q 260 191 275 198" stroke="#a0522d" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- Plantain -->
+  <ellipse cx="290" cy="220" rx="35" ry="12" fill="#f4c542"/>
+</svg>

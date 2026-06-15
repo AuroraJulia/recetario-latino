@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="220" rx="160" ry="40" fill="#e0e0e0"/>
+  <!-- Brigadeiro balls in cups -->
+  <!-- cup 1 -->
+  <path d="M 110 200 L 100 230 L 150 230 L 140 200 Z" fill="#f4a259"/>
+  <circle cx="125" cy="195" r="22" fill="#4a2c1a"/>
+  <circle cx="118" cy="188" r="2" fill="#7a4a30"/>
+  <circle cx="130" cy="192" r="2" fill="#7a4a30"/>
+  <circle cx="122" cy="200" r="2" fill="#7a4a30"/>
+  <circle cx="132" cy="202" r="2" fill="#7a4a30"/>
+  <!-- cup 2 -->
+  <path d="M 190 200 L 180 230 L 230 230 L 220 200 Z" fill="#e85d75"/>
+  <circle cx="205" cy="195" r="22" fill="#4a2c1a"/>
+  <circle cx="198" cy="188" r="2" fill="#7a4a30"/>
+  <circle cx="210" cy="192" r="2" fill="#7a4a30"/>
+  <circle cx="202" cy="200" r="2" fill="#7a4a30"/>
+  <circle cx="212" cy="202" r="2" fill="#7a4a30"/>
+  <!-- cup 3 -->
+  <path d="M 270 200 L 260 230 L 310 230 L 300 200 Z" fill="#a8d840"/>
+  <circle cx="285" cy="195" r="22" fill="#4a2c1a"/>
+  <circle cx="278" cy="188" r="2" fill="#7a4a30"/>
+  <circle cx="290" cy="192" r="2" fill="#7a4a30"/>
+  <circle cx="282" cy="200" r="2" fill="#7a4a30"/>
+  <circle cx="292" cy="202" r="2" fill="#7a4a30"/>
+</svg>

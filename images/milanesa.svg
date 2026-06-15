@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="200" rx="160" ry="60" fill="#e0e0e0"/>
+  <ellipse cx="200" cy="195" rx="148" ry="52" fill="#f5f5f5"/>
+  <!-- Cutlet base -->
+  <ellipse cx="200" cy="190" rx="110" ry="42" fill="#d9a14a"/>
+  <!-- Tomato sauce -->
+  <ellipse cx="200" cy="180" rx="95" ry="32" fill="#e85d40"/>
+  <!-- Cheese melted -->
+  <ellipse cx="200" cy="178" rx="80" ry="25" fill="#fdf0b0"/>
+  <!-- Ham strips -->
+  <rect x="140" y="170" width="40" height="10" rx="3" fill="#e89aa8" transform="rotate(-10 140 170)"/>
+  <rect x="210" y="172" width="40" height="10" rx="3" fill="#e89aa8" transform="rotate(8 210 172)"/>
+  <!-- Oregano specks -->
+  <circle cx="170" cy="165" r="2" fill="#2f9e44"/>
+  <circle cx="230" cy="160" r="2" fill="#2f9e44"/>
+  <circle cx="200" cy="195" r="2" fill="#2f9e44"/>
+</svg>
