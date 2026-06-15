@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recetario Latino - Authentic Latin American Recipes</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo">🌮 Recetario Latino</h1>
+      <p class="tagline">Authentic recipes from across Latin America</p>
+    </div>
+  </header>
+
+  <nav class="breadcrumb-nav">
+    <div class="container">
+      <span id="breadcrumb">
+        <a href="#" onclick="showHome()">Home</a>
+      </span>
+    </div>
+  </nav>
+
+  <main class="container">
+
+    <!-- HOME VIEW: Country Selector -->
+    <section id="home-view">
+      <h2 class="section-title">Choose a Country</h2>
+      <div id="country-grid" class="grid"></div>
+    </section>
+
+    <!-- COUNTRY VIEW: List of Recipes -->
+    <section id="country-view" class="hidden">
+      <h2 class="section-title" id="country-title"></h2>
+      <div id="recipe-grid" class="grid"></div>
+    </section>
+
+    <!-- RECIPE VIEW: Recipe Details -->
+    <section id="recipe-view" class="hidden">
+      <div class="recipe-detail" id="recipe-detail"></div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Recetario Latino &copy; 2026 — Sharing the flavors of Latin America</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
