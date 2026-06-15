@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="220" rx="160" ry="40" fill="#e0e0e0"/>
+  <!-- Cheese bread balls -->
+  <circle cx="150" cy="180" r="45" fill="#f4c542"/>
+  <circle cx="150" cy="170" r="45" fill="#f7d268"/>
+  <circle cx="135" cy="160" r="4" fill="#fff3d0"/>
+  <circle cx="160" cy="155" r="4" fill="#fff3d0"/>
+  <circle cx="150" cy="175" r="4" fill="#fff3d0"/>
+
+  <circle cx="250" cy="190" r="38" fill="#f4c542"/>
+  <circle cx="250" cy="182" r="38" fill="#f7d268"/>
+  <circle cx="238" cy="172" r="3" fill="#fff3d0"/>
+  <circle cx="260" cy="170" r="3" fill="#fff3d0"/>
+
+  <circle cx="285" cy="160" r="30" fill="#f4c542"/>
+  <circle cx="285" cy="153" r="30" fill="#f7d268"/>
+  <circle cx="278" cy="145" r="3" fill="#fff3d0"/>
+</svg>

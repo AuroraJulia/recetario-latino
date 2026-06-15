@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="210" rx="160" ry="50" fill="#e0e0e0"/>
+  <!-- Folded pancake -->
+  <path d="M 100 200 Q 200 240 300 200 L 300 180 Q 200 220 100 180 Z" fill="#f4c542"/>
+  <ellipse cx="200" cy="180" rx="100" ry="35" fill="#f7d268"/>
+  <!-- corn specks -->
+  <circle cx="160" cy="172" r="3" fill="#fdfaf3"/>
+  <circle cx="190" cy="178" r="3" fill="#fdfaf3"/>
+  <circle cx="220" cy="170" r="3" fill="#fdfaf3"/>
+  <circle cx="240" cy="180" r="3" fill="#fdfaf3"/>
+  <!-- cheese oozing from fold -->
+  <ellipse cx="200" cy="208" rx="60" ry="10" fill="#fff3d0"/>
+</svg>

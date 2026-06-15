@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="220" rx="160" ry="40" fill="#e0e0e0"/>
+  <!-- Tequeno sticks -->
+  <rect x="120" y="150" width="22" height="75" rx="8" fill="#f4c542" transform="rotate(-8 120 150)"/>
+  <rect x="165" y="145" width="22" height="80" rx="8" fill="#f7d268" transform="rotate(5 165 145)"/>
+  <rect x="210" y="150" width="22" height="75" rx="8" fill="#f4c542" transform="rotate(-4 210 150)"/>
+  <rect x="255" y="145" width="22" height="80" rx="8" fill="#f7d268" transform="rotate(7 255 145)"/>
+  <!-- cheese peeking from one end -->
+  <rect x="166" y="140" width="20" height="10" rx="3" fill="#fff3d0" transform="rotate(5 166 140)"/>
+  <!-- golden brown spots -->
+  <circle cx="130" cy="180" r="3" fill="#d9a82a"/>
+  <circle cx="222" cy="185" r="3" fill="#d9a82a"/>
+  <circle cx="266" cy="178" r="3" fill="#d9a82a"/>
+</svg>

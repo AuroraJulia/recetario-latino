@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff3e0"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="210" rx="160" ry="55" fill="#e0e0e0"/>
+  <ellipse cx="200" cy="205" rx="148" ry="48" fill="#f5f5f5"/>
+  <!-- Rice -->
+  <ellipse cx="130" cy="200" rx="55" ry="32" fill="#fdfaf3"/>
+  <!-- Creamy chicken sauce -->
+  <ellipse cx="250" cy="195" rx="80" ry="40" fill="#f4c542"/>
+  <ellipse cx="250" cy="190" rx="70" ry="33" fill="#f7d268"/>
+  <!-- chicken shreds -->
+  <path d="M 220 185 Q 230 178 240 185" stroke="#fdfaf3" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 245 195 Q 255 188 268 195" stroke="#fdfaf3" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 230 205 Q 242 198 255 205" stroke="#fdfaf3" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Egg slice -->
+  <circle cx="290" cy="180" r="15" fill="#fdfaf3"/>
+  <circle cx="290" cy="180" r="7" fill="#f4c542"/>
+  <!-- Olive -->
+  <ellipse cx="200" cy="220" rx="8" ry="6" fill="#3a2618"/>
+</svg>
